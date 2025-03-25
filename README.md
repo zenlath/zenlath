@@ -1,5 +1,5 @@
 ## hello dawg
-![GIF](https://www.gifcen.com/wp-content/uploads/2024/01/patrick-gif-4.gif)
+![Alt Text](https://i.pinimg.com/736x/83/90/6c/83906c074c76737feb668bd765a8123a.jpg)
 
 <!--
 **zenlath/zenlath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
